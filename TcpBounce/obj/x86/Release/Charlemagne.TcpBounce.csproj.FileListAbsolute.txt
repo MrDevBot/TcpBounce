@@ -1,0 +1,7 @@
+C:\Users\Aelder1\Desktop\TcpBounce\TcpBounce\bin\Release\TcpForwarder.exe
+C:\Users\Aelder1\Desktop\TcpBounce\TcpBounce\obj\x86\Release\Charlemagne.TcpBounce.csprojAssemblyReference.cache
+C:\Users\Aelder1\Desktop\TcpBounce\TcpBounce\obj\x86\Release\TcpForwarder.Properties.Resources.resources
+C:\Users\Aelder1\Desktop\TcpBounce\TcpBounce\obj\x86\Release\Charlemagne.TcpBounce.csproj.GenerateResource.cache
+C:\Users\Aelder1\Desktop\TcpBounce\TcpBounce\obj\x86\Release\Charlemagne.TcpBounce.csproj.CoreCompileInputs.cache
+C:\Users\Aelder1\Desktop\TcpBounce\TcpBounce\obj\x86\Release\TcpForwarder.exe
+C:\Users\Aelder1\Desktop\TcpBounce\TcpBounce\obj\x86\Release\TcpForwarder.pdb
