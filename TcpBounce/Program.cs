@@ -10,14 +10,19 @@ using Console = Colorful.Console;
 
 //This Program is an extension of the MoonShine project and is distributed as part of Project Charlemagne
 
-//Copyright(C) 2019-2020 <REDACTED>, All rights reserved.
-// This file is part of The Charlemagne project.
-//
-// This program can not be copied and/or distributed without the express
-// permission of the Author, The liscensed user may however modify, 
-// distribute and use the project as they see fit within the terms of the 
-// Liscense
-//
+/*Copyright(C) 2019-2020 <REDACTED>, All rights reserved.
+This file is part of The Charlemagne project.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+/*
+
 //The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 namespace TcpBounce
